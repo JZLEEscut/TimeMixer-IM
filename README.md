@@ -20,14 +20,6 @@ src/           Public interfaces only; no model implementation
 tests/         Interface-level checks only
 ```
 
-## Security and release policy
-
-Do not commit datasets, raw transaction files, trained weights, prediction arrays, logs, result tables, private paths, cloud credentials, or unpublished manuscript material. Release additions must be reviewed against this policy and the corresponding paper status.
-
-## Status
-
-This is an initial framework release. It is intended to make the project structure visible while protecting the unpublished implementation. Issues and suggestions about the public interfaces are welcome.
-
 ## License
 
 The scaffold is released under the MIT License. This license applies only to files in this repository and does not grant rights to unpublished research materials held elsewhere.
