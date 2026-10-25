@@ -1,6 +1,4 @@
-# TimeMixer-IM public research framework
-
-This repository is a deliberately minimal public scaffold for the TimeMixer-IM research project. It documents the public-facing experiment layout and interfaces without publishing the unpublished model implementation, training code, data, checkpoints, predictions, paper assets, or experimental results.
+# TimeMixer-IM 
 
 ## Scope
 
