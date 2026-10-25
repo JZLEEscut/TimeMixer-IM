@@ -1,0 +1,11 @@
+{
+  "dataset": "example_only",
+  "history_length": 365,
+  "forecast_horizon": 28,
+  "evaluation_horizons": [7, 14, 28],
+  "seed": 2021,
+  "future_covariates": ["calendar", "promotion", "event"],
+  "data_root": "<local-data-root>",
+  "output_root": "<local-output-root>",
+  "note": "This file is a schema example only; it is not a runnable reproduction configuration."
+}

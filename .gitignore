@@ -1,0 +1,33 @@
+# Data and unpublished experiment material
+data/
+datasets/
+outputs/
+results/
+logs/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.parquet
+*.pkl
+*.joblib
+*.csv
+
+# Local configuration and credentials
+.env
+*.local.*
+config.local.*
+
+# Python and editor artefacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.idea/
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store

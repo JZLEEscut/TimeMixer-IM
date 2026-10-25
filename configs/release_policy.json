@@ -1,0 +1,21 @@
+{
+  "implementation_status": "private_until_publication",
+  "allowed_initial_contents": [
+    "documentation",
+    "example_configurations",
+    "interface_stubs",
+    "interface_tests"
+  ],
+  "excluded_contents": [
+    "model_implementation",
+    "training_scripts",
+    "datasets",
+    "checkpoints",
+    "predictions",
+    "logs",
+    "paper_assets",
+    "unpublished_results",
+    "credentials"
+  ],
+  "review_before_each_release": true
+}
